@@ -1,0 +1,19 @@
+{
+    "user": {},
+    "preferences": {
+        "voice": "Female voice using Piper TTS."
+    },
+    "projects": {
+        "rontogen": "Rontogen is a personal AI assistant project.",
+        "rontogen_hardware": "Rontogen will eventually use an ESP32 as the physical interface while the laptop runs the AI brain.",
+        "rontogen_fact_1": "I want Rontogen to eventually become a physical device",
+        "rontogen_fact_2": "i want rontogen to eventualy have a physical body",
+        "auto_project_1": "I'm working on a drone project.",
+        "auto_project_2": "I'm building a small UAV for my college project."
+    },
+    "goals": {},
+    "facts": {
+        "fact_1": "I want Rontogen to eventually become a physical device",
+        "auto_fact_1": "i am studying electrical and electronics engineering"
+    }
+}

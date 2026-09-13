@@ -1,0 +1,3 @@
+*.onnx
+en_US-amy-medium.onnx.json
+*.wav
