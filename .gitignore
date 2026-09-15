@@ -1,3 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# AI models
 *.onnx
-en_US-amy-medium.onnx.json
+*.onnx.json
+*.gguf
+*.bin
+
+# Generated audio
 *.wav
+*.mp3
+
+# Personal/local data
+memory.json
+
+# Environment/secrets
+.env
